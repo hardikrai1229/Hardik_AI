@@ -1,7 +1,7 @@
 import streamlit as st
 
 def show():
-    st.title("fourpage")
+    st.title("AI")
 
     st.markdown("""
     ## Welcome to ML Model Trainer & Analyzer
